@@ -1,0 +1,17 @@
+
+# Compiled executables
+*.exe
+*.o
+dpi_engine
+
+# Packet capture files
+*.pcap
+*.pcapng
+
+# Build files
+build/
+cmake-build-*/
+
+# Editor files
+.vscode/
+
